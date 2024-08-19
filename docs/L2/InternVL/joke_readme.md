@@ -65,7 +65,7 @@ pip install streamlit==1.36.0
 # 创建一个目录，用来存放源代码
 mkdir -p /root/InternLM/code
 
-cd /root/InternLM/code
+# cd /root/InternLM/code
 
 git clone -b v0.1.23  https://github.com/InternLM/XTuner
 ```
